@@ -13,7 +13,10 @@ int main(){
 	ptr_vagon_2 = ptr_vagon_1;
 	ptr_vagon_3 = &ptr_vagon_2;
 	ptr_vagon_4 = ptr_vagon_3;
-
+	
+	// помоги маме найти своего ребенка 
+	// в вагоне поезда, куда он там забрел
+	// int mother = baby;
 	int mother = ? ptr_vagon_4;
 
 	return 0;
