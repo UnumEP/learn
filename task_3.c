@@ -16,7 +16,7 @@ int main(){
 	int val = 2; // @1@
 	int ans = get_perimeter(val, 5); // вызов функции до ее определения @2@
 
-	printf("периметр = %в\n", ans);
+	printf("периметр = %d\n", ans);
 
 	return 0;
 }
